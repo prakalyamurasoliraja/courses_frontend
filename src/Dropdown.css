@@ -1,0 +1,21 @@
+.h{
+background-color:'+setbgcolor+';
+padding: 45px;
+margin-top: auto;
+height: 30px;
+width: 600px;
+justify-items: center;
+}
+
+.drop{
+    background-color:'+setbgcolor+';
+    padding: 45px;
+    font-size: 45px;
+    font-weight: 200;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: crimson;
+}
+
+.Form{
+    background-color: brown;
+}
